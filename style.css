@@ -16,6 +16,8 @@ html {
 
 body {
   background-color: #f7f7f7;
+  width:100%;
+  max-width:1024px;
 }
 
 :root {
